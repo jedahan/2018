@@ -1,0 +1,9 @@
+[package]
+name = "zrnew"
+version = "0.0.1"
+authors = ["Jonathan Dahan <hi@jonathan.is>"]
+readme = "readme.md"
+license = "MPL-2.0"
+
+[dependencies]
+clap = "2.31.2"
