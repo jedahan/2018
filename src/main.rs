@@ -26,6 +26,5 @@ fn main() {
       .author("Kevin K.")
       .get_matches();
     println!("{}", plugin);
-    println!("{:?}", zr)
 }
 
